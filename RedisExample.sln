@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.Pub.Sub.Publisher.Exa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.Pub.Sub.Subscriber.Example1", "Redis.Pub.Sub.Subscriber.Example1\Redis.Pub.Sub.Subscriber.Example1.csproj", "{BBBB2A8F-8F3D-420A-A835-2EB88E47BD9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingWebAPI", "CachingWebAPI\CachingWebAPI.csproj", "{BFF39084-C511-4EBE-BCCE-6AF0E54F64A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BBBB2A8F-8F3D-420A-A835-2EB88E47BD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBBB2A8F-8F3D-420A-A835-2EB88E47BD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBBB2A8F-8F3D-420A-A835-2EB88E47BD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF39084-C511-4EBE-BCCE-6AF0E54F64A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF39084-C511-4EBE-BCCE-6AF0E54F64A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF39084-C511-4EBE-BCCE-6AF0E54F64A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF39084-C511-4EBE-BCCE-6AF0E54F64A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
